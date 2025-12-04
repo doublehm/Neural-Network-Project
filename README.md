@@ -64,7 +64,7 @@ The project is built upon core Python tools for deep learning and data science:
 
   * **Jupyter Notebook**: For reproducible research and documentation of the machine learning workflow.
   * **Python**: The primary programming language.
-  * **Deep Learning Framework**: (Likely **TensorFlow** or **PyTorch**) Used for building and training the multi-layered neural network.
+  * **Deep Learning Framework**: **TensorFlow** Used for building and training the multi-layered neural network.
   * **Pandas/NumPy**: For data loading, preprocessing, and numerical operations.
   * **Matplotlib**: Used to generate the performance and results visualizations (`output*.png`).
   * **Graphviz**: (If used to generate the network visualization) Used for generating the `network.gv.pdf`.
